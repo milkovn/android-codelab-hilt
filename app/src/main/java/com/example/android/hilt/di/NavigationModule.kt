@@ -1,4 +1,4 @@
-package com.example.android.hilt.ui
+package com.example.android.hilt.di
 
 import com.example.android.hilt.navigator.AppNavigator
 import com.example.android.hilt.navigator.AppNavigatorImpl
